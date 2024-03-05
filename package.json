@@ -34,7 +34,7 @@
       ]
    },
    "scripts": {
-      "lint": "eslint src && prettier src"
+      "lint": "eslint . && prettier ."
    },
    "devDependencies": {
       "@changesets/cli": "^2.27.1",
