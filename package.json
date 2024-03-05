@@ -14,6 +14,7 @@
   ],
   "scripts": {},
   "devDependencies": {
+    "@changesets/cli": "^2.27.1",
     "astro": "^4.4.11"
   },
   "peerDependencies": {
